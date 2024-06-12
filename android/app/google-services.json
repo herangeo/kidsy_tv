@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967215767335",
+    "project_id": "kidsy-5d3d0",
+    "storage_bucket": "kidsy-5d3d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967215767335:android:46521e2ebe84e24d22d302",
+        "android_client_info": {
+          "package_name": "com.kidsyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSFEi-Q6xf8nS2Msxaye-Oabn-2xeilYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
